@@ -20,11 +20,7 @@ assignees: ""
 
 ## 替代方案
 
-描述你考虑过的任何替代解决方案。 3. 自定义模板
-.github/ISSUE_TEMPLATE/question.md ：
-环境
-Issue 模板配置文件
-创建 .github/ISSUE_TEMPLATE/config.yml 来配置额外选项：
+描述你考虑过的任何替代解决方案。
 
 ## 附加上下文
 
